@@ -8,7 +8,7 @@ const ItemList = ({ productos }) => {
             <hr />
             <h2>Rom Deco Desing</h2>
             <hr />
-
+            
             <div className="row">
                 {
                     productos.map((prod) => <ItemCard key={prod.id} item={prod} />)

@@ -26,25 +26,13 @@
   font-weight: bolder;
 }
 
-.link_nav {
-  list-style: none;
-  color: rgb(148, 110, 5);
-  background-color: beige;
-  padding: 10px;
-  font-weight: bolder;
-  font-size: large;
-  padding: 10px;
-  position:fixed;
-
-}
-
 .logo {
   width: 25%;
   display: flex;
   align-items: center;
   justify-content: center;
   
-  margin: 5%;
+  margin: 20px;
 }
 
 .carrito {
@@ -87,7 +75,7 @@ body {
 .prod_container {
   max-width: 1200px;
   margin: auto;
-
+  color: rgb(114, 68, 15);
 }
 
 h2 {
@@ -95,4 +83,16 @@ h2 {
   background-color: beige;
   padding: 35px;
   font-weight: bolder;
+}
+
+.item-detail {
+  color: rgb(124, 55, 6);
+  font-size: x-large;
+
+}
+
+.img_quienes {
+  margin-left: 30%;
+  margin-top: 50px;
+  margin-bottom: 80px;
 }

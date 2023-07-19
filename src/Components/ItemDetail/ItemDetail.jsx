@@ -6,8 +6,8 @@ const ItemDetail = ({item}) => {
         <div className="item-detail">
             <h2>{ item.nombre }</h2>
             <img src={ item.img } alt={ item.nombre } />
-            <p><strong>Precio: $</strong>${ item.precio_venta }.00</p>
-            <p>{item.descripcion}</p>
+            <p>Precio: $<strong>{ item.precio_venta }</strong></p>
+            <p><strong>{item.descripcion}</strong></p>
             <button className="btn btn-success">Agregar al Carrito</button>
         </div>
     )
