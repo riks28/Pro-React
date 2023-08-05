@@ -6,7 +6,8 @@
         "nombre": "PLATO CEBRA",
         "descripcion": "Plato playo 4 rayas filete oro medidas 25cm diámetro",
         "precio_venta": 12000,
-        "img": "../../public/plato-cebra.png"
+        "img": "../../public/plato-cebra.png", 
+        "stock": 15
     },
     {
         "id": 2,
@@ -14,7 +15,8 @@
         "nombre": "PLATO BLACK PANAL",
         "descripcion": "Plato postre Black panal borde natural 22cm",
         "precio_venta": 6000,
-        "img": "../../public/plato-black-panal.png"
+        "img": "../../public/plato-black-panal.png", 
+        "stock": 15
     },
     {
         "id": 3,
@@ -22,7 +24,8 @@
         "nombre": "DIP LISO NEGRO",
         "descripcion": "Dip liso borde oro 7,5cm x 7,5cm x 3,5cm",
         "precio_venta": 2500,
-        "img": "../../public/plat.png"
+        "img": "../../public/plat.png", 
+        "stock": 15
     },
     {
         "id": 4,
@@ -30,7 +33,8 @@
         "nombre": "Platos & Bowls BLACK PANAL",
         "descripcion": "Platos & Bowls black panal borde natural 20cm",
         "precio_venta": 8000,
-        "img": "../../public/bowl-panal.png"
+        "img": "../../public/bowl-panal.png", 
+        "stock": 15
     },
     {
         "id": 5,
@@ -38,7 +42,8 @@
         "nombre": "Platos & Bowls OCEAN",
         "descripcion": "Platos & Bowls Ocean detalles dorados 11,5cm x 7,5cm",
         "precio_venta": 5000,
-        "img": "../../public/bowl-ocean.png"
+        "img": "../../public/bowl-ocean.png", 
+        "stock": 15
     },
     {
         "id": 6,
@@ -46,7 +51,8 @@
         "nombre": "Platos & Bowls MARMOL",
         "descripcion": "Platos & Bowls ceramica Marmol filete oro 16cm x 15cm x 15cm",
         "precio_venta": 5000,
-        "img": "../../public/bowl-marmol.png"
+        "img": "../../public/bowl-marmol.png", 
+        "stock": 15
     },
     {
         "id": 7,
@@ -54,7 +60,8 @@
         "nombre": "CONTENEDOR GALA",
         "descripcion": "Contenedor grande colete vidrio envejecido 12cm x 25cm",
         "precio_venta": 17000,
-        "img": "../../public/cont-gala.png"
+        "img": "../../public/cont-gala.png", 
+        "stock": 15
     },
     {
         "id": 8,
@@ -62,7 +69,8 @@
         "nombre": "CONTENEDOR CRETA",
         "descripcion": "Frasco creta vidrio envejecido con pie y tapa 11cm x 26cm",
         "precio_venta": 15000,
-        "img": "../../public/frasco-creta.png"
+        "img": "../../public/frasco-creta.png", 
+        "stock": 15
     },
     {
         "id": 9,
@@ -70,7 +78,8 @@
         "nombre": "FRASCO MIRROR",
         "descripcion": "Frasco ondas mirror mediano",
         "precio_venta": 6000,
-        "img": "../../public/frasco-mirror.png"
+        "img": "../../public/frasco-mirror.png", 
+        "stock": 15
     },
     {
         "id": 10,
@@ -78,7 +87,8 @@
         "nombre": "CUBIERTOS WHITE",
         "descripcion": "Set x 3 cubiertos dorados mango blanco",
         "precio_venta": 8000,
-        "img": "../../public/cub-m-blanco.png"
+        "img": "../../public/cub-m-blanco.png", 
+        "stock": 15
     },
     {
         "id": 11,
@@ -86,7 +96,8 @@
         "nombre": "CUBIERTOS BLACK",
         "descripcion": "Set de Cubiertos x 4 dorados mango negro",
         "precio_venta": 6000,
-        "img": "../../public/cub-m-negro.png"
+        "img": "../../public/cub-m-negro.png", 
+        "stock": 15
     },
     {
         "id": 12,
@@ -94,7 +105,8 @@
         "nombre": "CUBIERTOS GOLD",
         "descripcion": "Set de cubiertos Dublin x 16 unidades 22cm acero inoxidable",
         "precio_venta": 34000,
-        "img": "../../public/cub-m-gold.png"
+        "img": "../../public/cub-m-gold.png", 
+        "stock": 15
     },
     {
         "id": 13,
@@ -102,7 +114,8 @@
         "nombre": "AZUCARERA ANIMAL",
         "descripcion": "Azucarera Animal print tapa oro 9cm x 9cm x 11cm",
         "precio_venta": 5000,
-        "img": "../../public/azuc-animal-print.png"
+        "img": "../../public/azuc-animal-print.png", 
+        "stock": 15
     },
     {
         "id": 14,
@@ -110,7 +123,8 @@
         "nombre": "AZUCARERA MARMOL",
         "descripcion": "Azucarera marmol tapa oro 9cm x 9cm x 11cm",
         "precio_venta": 5000,
-        "img": "../../public/azuc-marmol.png"
+        "img": "../../public/azuc-marmol.png", 
+        "stock": 15
     },
     {
         "id": 15,
@@ -118,7 +132,8 @@
         "nombre": "AZUCARERA BLACK PANAL",
         "descripcion": "Azucarera Black Panal 310cc medidas 9cm x 9cm x 11cm",
         "precio_venta": 5000,
-        "img": "../../public/azuc-panal.png"
+        "img": "../../public/azuc-panal.png", 
+        "stock": 15
     },
     {
         "id": 16,
@@ -126,7 +141,8 @@
         "nombre": "COPAS BORDER",
         "descripcion": "Set de 6 copas de cristal con borde dorado 23cm x 10cm",
         "precio_venta": 17000,
-        "img": "../../public/copa-borde-dorado.png"
+        "img": "../../public/copa-borde-dorado.png", 
+        "stock": 15
     },
     {
         "id": 17,
@@ -134,7 +150,8 @@
         "nombre": "COPAS FUME",
         "descripcion": "Set de 6 copas Fume borde dorado 500ml",
         "precio_venta": 17000,
-        "img": "../../public/copa-fume.png"
+        "img": "../../public/copa-fume.png", 
+        "stock": 15
     },
     {
         "id": 18,
@@ -142,7 +159,8 @@
         "nombre": "COPAS CHAMPAGNE",
         "descripcion": "Set de 6 copas de cristal con borde dorado 6cm x 26cm x 5cm",
         "precio_venta": 19000,
-        "img": "../../public/copa-champ.png"
+        "img": "../../public/copa-champ.png", 
+        "stock": 15
     },
     {
         "id": 19,
@@ -150,7 +168,8 @@
         "nombre": "FLORERO CERAMIC",
         "descripcion": "Florero de ceramica carrara gold medidas 16cm x 11cm",
         "precio_venta": 7000,
-        "img": "../../public/florero-ceramic.png"
+        "img": "../../public/florero-ceramic.png", 
+        "stock": 15
     },
     {
         "id": 20,
@@ -158,7 +177,8 @@
         "nombre": "FLORERO ELECTRA",
         "descripcion": "Florero de cristal electra 4cm x 9cm x 10cm",
         "precio_venta": 6500,
-        "img": "../../public/florero-electra.png"
+        "img": "../../public/florero-electra.png", 
+        "stock": 15
     },
     {
         "id": 21,
@@ -166,7 +186,8 @@
         "nombre": "JARRON POSITANO",
         "descripcion": "Jarrón Positano azul & gold 14cm x 14cm x 20cm",
         "precio_venta": 13000,
-        "img": "../../public/jarron-positano.png"
+        "img": "../../public/jarron-positano.png", 
+        "stock": 15
     },
     {
         "id": 22,
@@ -174,7 +195,8 @@
         "nombre": "INDIVIDUALES FLORES BLACK",
         "descripcion": "Individual flores rectangular 45cm x 30cm",
         "precio_venta": 2000,
-        "img": "../../public/indiv-black.png"
+        "img": "../../public/indiv-black.png", 
+        "stock": 15
     },
     {
         "id": 23,
@@ -182,7 +204,8 @@
         "nombre": "INDIVIDUALES FLORES WHITE",
         "descripcion": "Individual flores rectangular 45cm x 30cm",
         "precio_venta": 2000,
-        "img": "../../public/indiv-blanco.png"
+        "img": "../../public/indiv-blanco.png", 
+        "stock": 15
     },
     {
         "id": 24,
@@ -190,7 +213,8 @@
         "nombre": "INDIVIDUALES GOLD HEXAGON",
         "descripcion": "Individual hexagono pvc dorado medidas 38cm",
         "precio_venta": 2000,
-        "img": "../../public/indiv-gold.png"
+        "img": "../../public/indiv-gold.png", 
+        "stock": 15
     },
     {
         "id": 25,
@@ -198,7 +222,8 @@
         "nombre": "TAZA CEBRA",
         "descripcion": "Taza Cata rayas negras asa oro 14cm x 7cm x 11cm",
         "precio_venta": 6500,
-        "img": "../../public/taza-cebra.png"
+        "img": "../../public/taza-cebra.png", 
+        "stock": 15
     },
     {
         "id": 26,
@@ -206,7 +231,8 @@
         "nombre": "TAZA MARMOL",
         "descripcion": "Taza bombe ceramica Marmol Asa oro 8cm x 8cm x10cm",
         "precio_venta": 6500,
-        "img": "../../public/taza-marmol.png"
+        "img": "../../public/taza-marmol.png", 
+        "stock": 15
     },
     {
         "id": 27,
@@ -214,7 +240,8 @@
         "nombre": "TAZA MUG",
         "descripcion": "Taza mug negro/ dorado 400cm3 medidas 11cm x 18cm",
         "precio_venta": 6000,
-        "img": "../../public/taza-mug.png"
+        "img": "../../public/taza-mug.png", 
+        "stock": 15
     },
     {
         "id": 28,
@@ -222,7 +249,8 @@
         "nombre": "TAZON OCEAN",
         "descripcion": "Tazón ocean 450cm3 medidas 11,5cm x 7,5cm",
         "precio_venta": 6000,
-        "img": "../../public/taza-ocean.png"
+        "img": "../../public/taza-ocean.png", 
+        "stock": 15
     }
     
 ]

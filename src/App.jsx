@@ -5,6 +5,7 @@ import Contacto from './Components/Contacto/Contacto'
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import ItemDetailContainer from "./Components/ItemDetailContainer/ItemDetailContainer"
+import Footer from './Components/Footer/Footer'
 import './App.css'
 
 
@@ -22,6 +23,7 @@ function App() {
           <Route path="/Contacto" element={<Contacto />}/>
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
       
   )

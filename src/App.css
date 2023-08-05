@@ -6,6 +6,7 @@
 }
 
 .header {
+
   background: linear-gradient(165deg, rgba(245, 244, 242, 0.719), rgba(238, 178, 13, 0.795), rgba(201, 190, 170, 0.842));
   display: flex;
   align-items: center;
@@ -88,11 +89,33 @@ h2 {
 .item-detail {
   color: rgb(124, 55, 6);
   font-size: x-large;
-
 }
 
 .img_quienes {
   margin-left: 30%;
   margin-top: 50px;
   margin-bottom: 80px;
+}
+
+.fondo-footer {
+  background: linear-gradient(165deg, rgba(245, 244, 242, 0.719), rgba(238, 178, 13, 0.795), rgba(201, 190, 170, 0.842));
+}
+
+.texto-footer {
+  text-align: center;
+}
+
+.redes-footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between ;
+  align-items:center;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.redes {
+  width: 60%;
+  display:inline;
+  position:relative;
 }

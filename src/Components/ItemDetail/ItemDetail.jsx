@@ -1,3 +1,4 @@
+import ItemCount from "../ItemCount/ItemCount"
 
 
 const ItemDetail = ({item}) => {
@@ -8,7 +9,11 @@ const ItemDetail = ({item}) => {
             <img src={ item.img } alt={ item.nombre } />
             <p>Precio: $<strong>{ item.precio_venta }</strong></p>
             <p><strong>{item.descripcion}</strong></p>
-            <button className="btn btn-success">Agregar al Carrito</button>
+            
+
+            <ItemCount 
+                max={item.stock}
+            />
         </div>
     )
 }
