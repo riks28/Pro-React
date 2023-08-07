@@ -22,7 +22,7 @@ const Footer = () => {
                 </div>
                 <br />
             </div>
-            <div class="posit-fot">
+            <div className="posit-fot">
                 <small> &copy; | Creado por Programer Team | - Todos los derechos reservados.</small>
             </div>
         </div>
