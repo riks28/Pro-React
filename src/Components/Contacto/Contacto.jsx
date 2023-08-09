@@ -1,7 +1,10 @@
 
 
 
+
 const Contacto = () => {
+
+
 
     return (
         <div className="link_nav">

@@ -18,8 +18,8 @@ const ItemListContainer = () => {
             .then(res => {
                 if (categoryId) {
                     setProductos(res.filter(prod => prod.categoria === categoryId))
-                } else { 
-                    setProductos(res) 
+                } else {
+                    setProductos(res)
                 }
             })
             .catch(error => console.log(error))
