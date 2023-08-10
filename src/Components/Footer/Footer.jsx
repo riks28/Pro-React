@@ -10,13 +10,13 @@ const Footer = () => {
                     ¡Te invitamos a seguirnos en nuestras redes sociales!
                 </h3>
                 <div className="redes-footer">
-                    <a href="https://www.instagram.com/rom.deco.design/">
+                    <a href="https://www.instagram.com/rom.deco.design/" target="_blank">
                         <img src="../src/assets/instagram.png" alt="icono-instagram" className="redes" />
                     </a>
-                    <a href="https://www.facebook.com/profile.php?id=100074235165395">
+                    <a href="https://www.facebook.com/profile.php?id=100074235165395" target="_blank">
                         <img src="../src/assets/facebook.png" alt="icono-facebook" className="redes" />
                     </a>
-                    <a href="https://wa.me/ 593811111111">
+                    <a href="https://wa.me/ 593811111111" target="_blank">
                         <img src="../src/assets/whatsapp.png" alt="icono-whatsapp" className="redes" />
                     </a>
                 </div>

@@ -1,11 +1,11 @@
-const QuienesSomos = () => {
+const Home = () => {
 
     return (
         <div className="link_nav">
             <div>
                 <hr />
                 <hr />
-                <h2>Quienes Somos</h2>
+                <h2>Home</h2>
                 <hr />
                 <hr />
             </div>
@@ -16,4 +16,4 @@ const QuienesSomos = () => {
     )
 }
 
-export default QuienesSomos
+export default Home

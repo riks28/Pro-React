@@ -7,8 +7,6 @@ import { Link } from "react-router-dom"
 const ItemDetail = ({ item }) => {
     const { addCart, isInCArt } = useContext(CartContext)
 
-    console.log(isInCArt(item.id))
-
     const [cantidad, setCantidad] = useState(1)
 
 

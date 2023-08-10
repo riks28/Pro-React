@@ -16,11 +16,14 @@ const ItemCount = ({max}) => {
 
     return (
         <div>
-            <button className="btn btn-light">Agregar al Carrito</button>
-            <br />
+            <hr />
             <button onClick={handlerResta} className="btn btn-outline-dark">-</button>
             <span className="mx-2">{counter}</span>
             <button onClick={handlerSuma} className="btn btn-info">+</button>
+            <span className="mx-4"> </span>
+            <button className="btn btn-light">Agregar al Carrito</button>
+            <hr />
+            
         </div>
 
     )
