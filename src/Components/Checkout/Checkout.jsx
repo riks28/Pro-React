@@ -40,7 +40,7 @@ const Chekout = () => {
 
         const batch = writeBatch(db)
 
-        const ordenRef = collection(db, "productos")
+        const ordenesRef = collection(db, "ordenes")
         const productosRef = collection(db, "productos")
         const q = query(productosRef, where(documentId(), "in", cart.map(item => item.id)))
 
@@ -63,7 +63,7 @@ const Chekout = () => {
         
         if (sinStock.length === 0) {
             await batch.commit()
-            const doc = await addDoc(ordenRef, orden)
+            const doc = await addDoc(ordenesRef, orden)
 
             vaciarCarrito()
             setOrdenId(doc.id)

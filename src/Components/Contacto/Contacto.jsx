@@ -11,7 +11,7 @@ const Contacto = () => {
             <div>
             <hr />
             <hr />
-            <h2>Contacto</h2>
+            <h2>Contactanos a traves de nuestras redes sociales!!</h2>
             <hr />
             <hr />
 
