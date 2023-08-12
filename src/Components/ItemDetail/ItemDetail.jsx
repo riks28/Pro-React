@@ -1,6 +1,6 @@
 import { useContext, useState } from "react"
 import ItemCount from "../ItemCount/ItemCount"
-import { CartContext } from "../../context/CartContext"
+import { CartContext } from "../../Context/CartContext"
 import { Link } from "react-router-dom"
 
 
@@ -20,6 +20,7 @@ const ItemDetail = ({ item }) => {
     }
 
     return (
+        
         <div className="item-detail">
             <h2>{item.nombre}</h2>
             <img src={item.img} alt={item.nombre} />
