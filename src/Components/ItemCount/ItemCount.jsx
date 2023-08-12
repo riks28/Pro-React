@@ -37,7 +37,7 @@ const ItemCount = ({max, cantidad, setCantidad, agregar}) => {
             <br/>
             <Link to="/" className="btn btn-secondary mx-2">Ir al inicio</Link>
             <button onClick={agregar} className="btn btn-light my-3 btn-outline-success">Agregar</button>
-
+            
         </div>
     )
 }

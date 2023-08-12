@@ -69,6 +69,11 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.botonBienvenida{
+  margin-left: 40%;
+  width: fit-content;
+}
+
 .img_card {
   width: 130%;
 }
